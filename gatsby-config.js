@@ -1,15 +1,15 @@
 module.exports = {
-  pathPrefix: "/nun-boy",
+  pathPrefix: "/",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Nun Boy`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Siven`,
+      summary: `A software engineer, writer`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog recording the interesting life`,
+    siteUrl: `https://nunboy.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `https://twitter.com/SivenJin`,
     },
   },
   plugins: [
