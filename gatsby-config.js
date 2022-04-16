@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/nun-boy",
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
