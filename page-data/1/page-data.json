@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/1/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Nun Boy"}},"markdownRemark":{"id":"7eaaede1-9778-59e5-a92f-1988c376de8b","excerpt":"…","html":"<p>我们中国人自古以来都有一个不可磨灭的梦 ———— <strong>“圣君贤相”</strong>， 或者说<strong>青天大老爷</strong>。</p>\n<p>我们习惯被管理，被统治，被奴役，假如管理者脚踏七彩祥云，头顶光环 😇，那再好不过了。</p>\n<p>“上面是好的，英明的，是下面执行的出了问题” 类似的话随处可见。</p>\n<p>凡有此一梦，<strong>皇上</strong>还在你心里，它只不过是改了个称呼。</p>\n<p>凡有此一梦， 你还活在<strong>封建社会</strong>。</p>\n<p>凡有此一梦，你还是<strong>奴才</strong>。</p>","frontmatter":{"title":"圣君贤相","date":"May 10, 2022","description":"一个中国人的梦"}},"previous":null,"next":null},"pageContext":{"id":"7eaaede1-9778-59e5-a92f-1988c376de8b","previousPostId":null,"nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
