@@ -9,7 +9,7 @@ module.exports = {
     description: `A blog recording the interesting life`,
     siteUrl: `https://nunboy.com`,
     social: {
-      twitter: `https://twitter.com/SivenJin`,
+      twitter: `SivenJin`,
     },
   },
   plugins: [
