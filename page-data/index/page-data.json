@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Nun Boy"}},"allMarkdownRemark":{"nodes":[{"excerpt":"…","fields":{"slug":"/1/"},"frontmatter":{"date":"May 10, 2022","title":"圣君贤相","description":"一个中国人的梦"}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Nun Boy"}},"allMarkdownRemark":{"nodes":[{"excerpt":"…","fields":{"slug":"/2/"},"frontmatter":{"date":"May 14, 2022","title":"跑步","description":"昆玉河的陪伴"}},{"excerpt":"…","fields":{"slug":"/1/"},"frontmatter":{"date":"May 10, 2022","title":"圣君贤相","description":"一个中国人的梦"}}]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383","3257411868"]}

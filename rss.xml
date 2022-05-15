@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A blog recording the interesting life]]></description><link>https://nunboy.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 10 May 2022 08:36:23 GMT</lastBuildDate><item><title><![CDATA[圣君贤相]]></title><description><![CDATA[…]]></description><link>https://nunboy.com/1/</link><guid isPermaLink="false">https://nunboy.com/1/</guid><pubDate>Tue, 10 May 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我们中国人自古以来都有一个不可磨灭的梦 ———— &lt;strong&gt;“圣君贤相”&lt;/strong&gt;， 或者说&lt;strong&gt;青天大老爷&lt;/strong&gt;。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A blog recording the interesting life]]></description><link>https://nunboy.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 May 2022 11:26:32 GMT</lastBuildDate><item><title><![CDATA[跑步]]></title><description><![CDATA[…]]></description><link>https://nunboy.com/2/</link><guid isPermaLink="false">https://nunboy.com/2/</guid><pubDate>Sat, 14 May 2022 20:00:03 GMT</pubDate><content:encoded>&lt;p&gt;从五一开始吧，北京开始陆陆续续的居家办公，常规核酸检测。&lt;/p&gt;
+&lt;p&gt;如今居家已经半个月了，这是健康宝第二次弹窗，我再也不关心核酸了，我一开始就反感这件事，但是我还是乖乖的去做了好几次，现在彻底躺了，短时间内无法去公司上班，核酸与我就不再有任何意义了。不知道这样的日子还会持续多久，但是你无法成为一个乐观主义者。&lt;/p&gt;
+&lt;p&gt;老实讲在家里不如在公司有氛围，这是一种工作的氛围，在家里就是家的氛围。我这么想，和有这种感觉，可能是因为还缺一个书房。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a0678fc5919b69a4e32427d9f983cc54/0f98f/yiheyuan.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAFYyo56BWF//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECEQMx/9oACAEBAAEFAqnDEKpZ0JJ8/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwG25f/EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAIAQIBAT8BiMI//8QAGRABAQADAQAAAAAAAAAAAAAAAQAQETEy/9oACAEBAAY/AldXBvE5/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARMSH/2gAIAQEAAT8h2L8HCQNsVyyd9Sd6yZ//2gAMAwEAAgADAAAAEJs//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8QoP/EABcRAAMBAAAAAAAAAAAAAAAAAAABMUH/2gAIAQIBAT8QchbH/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFRcf/aAAgBAQABPxAoIrP5gEMGi+fmZq0ZZd75yzu43KeXGIM7v//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;YiHeYuan&quot;
+        title=&quot;YiHeYuan&quot;
+        src=&quot;/static/a0678fc5919b69a4e32427d9f983cc54/828fb/yiheyuan.jpg&quot;
+        srcset=&quot;/static/a0678fc5919b69a4e32427d9f983cc54/ff44c/yiheyuan.jpg 158w,
+/static/a0678fc5919b69a4e32427d9f983cc54/a6688/yiheyuan.jpg 315w,
+/static/a0678fc5919b69a4e32427d9f983cc54/828fb/yiheyuan.jpg 630w,
+/static/a0678fc5919b69a4e32427d9f983cc54/0ede0/yiheyuan.jpg 945w,
+/static/a0678fc5919b69a4e32427d9f983cc54/3ac88/yiheyuan.jpg 1260w,
+/static/a0678fc5919b69a4e32427d9f983cc54/0f98f/yiheyuan.jpg 1920w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在家附近有条河，叫昆玉河，往西一直通往颐和园，约莫有 5 公里，河边有很多钓鱼的，也有一些发呆的，有玩冲浪板的。昨天是我第五次在河边跑步，每次都会跑到颐和园如意门，然后折返，最近我对跑步的感受和认知发生了一些明显的变化，就说以前吧，枯燥，无聊是我对跑步的刻板印象，更喜欢打球这种互动性强的。还不能说我爱上了跑步，但是我开始喜欢它了，跑完之后身心舒畅，活力满满，每多一秒的坚持，都会体会到身体和心理的细微变化，尤其是在大汗淋漓想停下来的时候，心里另外一个小人会鼓励自己再坚持一会儿，到前面那座桥，等到了，又鼓励自己到下一个桥，虽然最终还是停下来了，但是这是一次和身体，和想放弃心理的一次较量。 有时候看着下一个桥太远，会感觉到心理有一点畏难情绪，直接会导致步伐变慢，但是转眼看着脚下的砖块，一个砖接着一个砖的往前跑，这种畏难心理却又突然消失了，难道这是大目标拆分为小目标之后，焦虑感的消失导致？。没想到跑步能帮我认识自己，我希望能一直跑，发展成自己的爱好。&lt;/p&gt;
+&lt;p&gt;人们是向往美好生活的，谁不想坐在初夏的夕阳下，喝着啤酒，吹着风，沉浸在自由里。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ac5807373057c49fbd26cd903aac6c44/f94e6/ruyimen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 94.30379746835443%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAATABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACA//aAAwDAQACEAMQAAABr5skxliQVl4QcrBH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAEREhAT/9oACAEBAAEFAsmTIoRD9Lyn/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIAEBL/2gAIAQMBAT8BKMJi/wD/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDEBNB/9oACAECAQE/ARIw9Wov/8QAFRABAQAAAAAAAAAAAAAAAAAAIEH/2gAIAQEABj8CNH//xAAaEAEBAQEAAwAAAAAAAAAAAAABABEhEDGB/9oACAEBAAE/IfI0hFJ78+I4WqELPbf/2gAMAwEAAgADAAAAEEAYAP/EABkRAAEFAAAAAAAAAAAAAAAAAAABEBExUf/aAAgBAwEBPxCwQlr/AP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEDFh/9oACAECAQE/EKQYOf/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQVFx/9oACAEBAAE/EGnJfyX8i4sLGE1eLhrN3FETaYYsVyqOOSqoPjU//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;YiHeYuan&quot;
+        title=&quot;YiHeYuan&quot;
+        src=&quot;/static/ac5807373057c49fbd26cd903aac6c44/828fb/ruyimen.jpg&quot;
+        srcset=&quot;/static/ac5807373057c49fbd26cd903aac6c44/ff44c/ruyimen.jpg 158w,
+/static/ac5807373057c49fbd26cd903aac6c44/a6688/ruyimen.jpg 315w,
+/static/ac5807373057c49fbd26cd903aac6c44/828fb/ruyimen.jpg 630w,
+/static/ac5807373057c49fbd26cd903aac6c44/0ede0/ruyimen.jpg 945w,
+/static/ac5807373057c49fbd26cd903aac6c44/3ac88/ruyimen.jpg 1260w,
+/static/ac5807373057c49fbd26cd903aac6c44/f94e6/ruyimen.jpg 1340w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[圣君贤相]]></title><description><![CDATA[…]]></description><link>https://nunboy.com/1/</link><guid isPermaLink="false">https://nunboy.com/1/</guid><pubDate>Tue, 10 May 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我们中国人自古以来都有一个不可磨灭的梦 ———— &lt;strong&gt;“圣君贤相”&lt;/strong&gt;， 或者说&lt;strong&gt;青天大老爷&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;我们习惯被管理，被统治，被奴役，假如管理者脚踏七彩祥云，头顶光环 😇，那再好不过了。&lt;/p&gt;
 &lt;p&gt;“上面是好的，英明的，是下面执行的出了问题” 类似的话随处可见。&lt;/p&gt;
 &lt;p&gt;凡有此一梦，&lt;strong&gt;皇上&lt;/strong&gt;还在你心里，它只不过是改了个称呼。&lt;/p&gt;
