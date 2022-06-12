@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A blog recording the interesting life]]></description><link>https://nunboy.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 04 Jun 2022 12:16:11 GMT</lastBuildDate><item><title><![CDATA[30岁的梦想]]></title><description><![CDATA[徒步 偶然间在 Twitter 上看到一个博主分享了一些徒步的视频，我也在 Youtube 上关注了一些 Youtuber,基本是 Solo hiking…]]></description><link>https://nunboy.com/5/</link><guid isPermaLink="false">https://nunboy.com/5/</guid><pubDate>Fri, 03 Jun 2022 16:13:05 GMT</pubDate><content:encoded>&lt;h3&gt;徒步&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A blog recording the interesting life]]></description><link>https://nunboy.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Jun 2022 14:29:01 GMT</lastBuildDate><item><title><![CDATA[我的国人]]></title><description><![CDATA[…]]></description><link>https://nunboy.com/6/</link><guid isPermaLink="false">https://nunboy.com/6/</guid><pubDate>Sun, 12 Jun 2022 22:13:05 GMT</pubDate><content:encoded>&lt;p&gt;最近发生了很多事情，所谓的疫情还在不断地影响日常出行，各地不断出现极端事件，上海金山当街拿刀砍人，唐山烧烤店暴力事件等，让人心情变得很差，悲观的情绪久久不能退却，没有愤怒就没有正义，作为普通人，在当前的社会环境和制度下，只有愤怒的权利了，其他的都可能是犯罪。
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/352679f8fc5bf12af042c06b5dd66748/35372/6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 138.60759493670886%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH3LgWwcnYYof/EABgQAAMBAQAAAAAAAAAAAAAAAAEQEQAg/9oACAEBAAEFAq7qihx//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAHBAAAwABBQAAAAAAAAAAAAAAAAERMRAgIUFx/9oACAEBAAE/IbrqZVpweDyJ1GQlehYtn//aAAwDAQACAAMAAAAQs88A/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHBAAAwEAAgMAAAAAAAAAAAAAAAERITFxEGGh/9oACAEBAAE/EEhTauNJZ9PYjkbw0jv4vJtRohu25s2Q0yuoM1tJ5//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;6&quot;
+        title=&quot;6&quot;
+        src=&quot;/static/352679f8fc5bf12af042c06b5dd66748/828fb/6.jpg&quot;
+        srcset=&quot;/static/352679f8fc5bf12af042c06b5dd66748/ff44c/6.jpg 158w,
+/static/352679f8fc5bf12af042c06b5dd66748/a6688/6.jpg 315w,
+/static/352679f8fc5bf12af042c06b5dd66748/828fb/6.jpg 630w,
+/static/352679f8fc5bf12af042c06b5dd66748/35372/6.jpg 867w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;最近一直在想社会是不是变得越来越差了，在那个人的带领下大家都礼崩乐坏呢，我这么想有点太把那个人当回事了，不错那个人确实对倒车有不可推卸的责任，但是我们的社会应该是一直不好，只是以前没有充分的暴露出来，反而在倒车的过程中，慢慢的曝光。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们总是幻想有人帮自己主持正义。这个有人多数时候是青天大老爷，皇上，上面，在俗世求不得的时候，会烧香拜佛，寄托鬼神。很少想着自己去争取，我们的制度，文化把我们驯化的不敢去争取自己的正义。&lt;/li&gt;
+&lt;li&gt;我们很多人对美好世界并不是很期待，美好世界有的东西对自己可有可无，自由，平等不知为何物，别人夺走的东西，不再干去要。苟活于世，只着眼于财源滚滚，升官发财，多子多福。&lt;/li&gt;
+&lt;li&gt;我们信奉枪打出头鸟，很多事等着别人去牺牲，去奋力争取，自己渔翁得利，过着岁月静好的生活&lt;/li&gt;
+&lt;li&gt;我们对政治不关心吗，不，很关心，很热情，全世界没有哪国人比中国更关心政治，我整天关心世界大局，想指导世界的发展，打日本，打台湾，对和自己切身相关的事情不关心&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们的国民和 100 年前有什么差别呢，没有差别。我们成立新中国真的是为了让人过上好日子吗，那些真正的烈士，革命先驱的付出是不是被人窃取了呢，因为我看不到我们和 100 年前，甚至 200 年前有什么进步。别说经济发展了，这是我们劳动的结果，是改革开放的成绩，我们的精神呢，100 年前大家革命的时候为之流血的自由，平等，民主，法治呢，统统不知踪影。我们的精神没有发展，没有成长。&lt;/p&gt;
+&lt;p&gt;这一切怪谁呢？我们没有制定一个好的制度，它让社会的自我治理能力彻底消失，让国家机器的力量无限大，制度在不断地生产恶，不断地阻碍我们对文明和进步的追求。&lt;/p&gt;
+&lt;p&gt;我们有 14 亿人，没有问过我们想过什么样的生活，想要民主还是想要皇帝，我们的生活被一小撮人决定，被一小撮人禁止。&lt;/p&gt;
+&lt;p&gt;黑格尔却在《法哲学原理》一书中说”中国的历史从本质上看是没有历史的，它只是君主覆灭的一再重复而已。任何进步都不可能从中产生。”, 这个外国人把中国看的很透，我们没有任何进步，我们对权力很痴迷，痴迷的 21 世纪了还有人想当皇帝。&lt;/p&gt;
+&lt;p&gt;任何一个有人想当皇帝的国家都不会变好。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[30岁的梦想]]></title><description><![CDATA[徒步 偶然间在 Twitter 上看到一个博主分享了一些徒步的视频，我也在 Youtube 上关注了一些 Youtuber,基本是 Solo hiking…]]></description><link>https://nunboy.com/5/</link><guid isPermaLink="false">https://nunboy.com/5/</guid><pubDate>Fri, 03 Jun 2022 16:13:05 GMT</pubDate><content:encoded>&lt;h3&gt;徒步&lt;/h3&gt;
 &lt;p&gt;偶然间在 Twitter 上看到一个博主分享了一些徒步的视频，我也在 Youtube 上关注了一些 Youtuber,基本是 Solo hiking，一个人背一个包，在世界各地的风景胜地徒步，有时候两三天，有时候一周，视频里没有人说话，不过有一点轻轻的背景音乐，和主人公的脚步声，更能沉浸地感受自然风景和徒步的快乐。昨天早晨跑步返程的时候，认真的体会了一下独自走路的感觉，很美妙，但是以前从没有意识到它的好处。一个人在安静的小路上散步，不用注意步伐的速度，让大脑自由的，天马行空的，放松的去想，思维变得非常活跃而敏捷，和跑步相比，需要更多精力关注速度，思维会收到很大干扰。
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
