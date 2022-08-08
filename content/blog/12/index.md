@@ -1,6 +1,6 @@
 ---
 title: My English Journey
-date: "2022-07-31-T21:13:05.274Z"
+date: "2022-07-31"
 description: "This is  a new start point:writing blog in English"
 ---
 

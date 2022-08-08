@@ -1,7 +1,7 @@
 ---
 title: Writing is a super skill
-date: "2022-08-07-T21:13:05.274Z"
-description: ""
+date: "2022-08-07"
+description: "What you should know when writing"
 ---
 
 Writing is a great skill, when you are writing something, your mind will turn to a more concentrated mode, where you indulge yourself into a world, full of the things you loved,you feel relaxed, light, happy, as a result you can organize ideas more efficient, in general, awesome ideas have a great chance to come out. However, someone can write amazing blog, while some others always struggle with writing, as we all know, writing is a skill, so, as long as finding out some secrets, then practice it continuously and deliberately, there will be a happy ending.
@@ -19,11 +19,11 @@ If you are writing, then it's obvious you're what you think and believe, so ther
 
 the second sentence is better than the first one 100 times.
 
-## Writing the tittle first
+## Writing the title first
 
 I'm always thinking what to write this week, I have a plenty of ideas, but don't know where to start when opening the editor.
 
-The better approach to writing a well-structured blog is to having a tittle first, when you have a tittle, you have a clear idea what you want to write and what you won't talk this time, because it's have noting to do with current topic. Focusing on one little thing one time, put your effort in it, then you'll make it a success.
+The better approach to writing a well-structured blog is to having a title first, when you have a title, you have a clear idea what you want to write and what you won't talk this time, because it's have noting to do with current topic. Focusing on one little thing one time, put your effort in it, then you'll make it a success.
 
 ## Musical
 
