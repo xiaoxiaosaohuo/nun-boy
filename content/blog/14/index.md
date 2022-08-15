@@ -4,7 +4,11 @@ date: "2022-08-15"
 description: ""
 ---
 
-I've been thinking and struggling about how to be active in a conversation, I want to get the hang of conversation, unfortunately, it turns out to be true that everything doesn't have a shortcut, it needs to pay effort and time, tree can not grow up in a day. It'll feel frustrated and passive when you are not fully engaged in a conversation, don't have a good understanding clearly what they are talking about, especially, it's a business meeting, it needs you to make a decision, or answer some questions, without being familiar with the context and topic, you'll put yourself in a dilemma.
+I've been thinking and struggling about how to be active in a conversation,
+I want to get the hang of conversation, unfortunately, it turns out to be true that everything doesn't have a shortcut, it needs to pay effort and time, tree can not grow up in a day.
+
+It'll feel frustrated and passive when you are not fully engaged in a conversation, don't have a good understanding clearly what they are talking about, especially, it's a business meeting, it needs you to make a decision, or answer some questions, without being familiar with the context and topic, you'll put yourself in a dilemma.
+
 Recently,I've learned some interesting tricks about how to be active in a conversation, these skills are very simple and actionable.
 
 ## Compliment others
@@ -14,17 +18,22 @@ Don't be mean with your praise, in a daily conversation, when the speaker is say
 Making some compliment is very rewarding for having a good relationship in conversation.
 
 'That's so funny'
+
 'It's awesome'
 ......
 
 ## Mindset shift
 
-Want to be more active in a conversation, we should have a mindset shit, try to have an interest in what the speaker talk about, have a willing to dig more details from him, let the conversation goes deeper. Of course, there are someone we don't like, when you say 'I interviewed Google today', somebody replies with 'I want to interview Google too', so boring and disappointed it is, he does't show any interest to others, how do you think that makes the speaker feel?
+Want to be more active in a conversation, we should have a mindset shit, try to have an interest in what the speaker talk about, have a willing to dig more details from him, let the conversation goes deeper.
+
+Of course, there are someone we don't like, when you say 'I interviewed Google today', somebody replies with 'I want to interview Google too', so boring and disappointed it is, he does't show any interest to others, how do you think that makes the speaker feel?
 
 Shifting the mindset can lead you to a successful conversation,be interested in other's story and life.
 
 'How was that?'
+
 'What made you want to do that?
+
 'Can you tell me more about that, it's so interesting'
 
 ## Listening actively
