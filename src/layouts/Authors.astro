@@ -1,4 +1,5 @@
 ---
+import { Image } from "@astrojs/image/components";
 import { markdownify } from "@lib/utils/textConverter";
 import { BsArrowRightCircle } from "react-icons/bs/index.js";
 const { authors } = Astro.props;
@@ -10,7 +11,7 @@ const { authors } = Astro.props;
       <div class="col-12 mb-8 sm:col-6 md:col-4">
         {author.data.image && (
           <div class="mb-4">
-            <img
+            <Image
               src={`${import.meta.env.BASE_URL}/${author.data.image}`}
               alt={author.data.title}
               height={150}

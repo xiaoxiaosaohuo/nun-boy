@@ -1,4 +1,6 @@
 ---
+import { Image } from "@astrojs/image/components";
+
 import config from "@config/config.json";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
@@ -15,7 +17,7 @@ const { className, posts, fluid } = Astro.props;
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
         {post.data.image && (
           <a href={`${import.meta.env.BASE_URL}/${post.slug}`} class="rounded-lg block hover:text-primary overflow-hidden group">
-            <img
+            <Image
               class="group-hover:scale-[1.03] transition duration-300 w-full"
               src={`${import.meta.env.BASE_URL}/${post.data.image}`}
               alt={post.data.title}
@@ -38,7 +40,7 @@ const { className, posts, fluid } = Astro.props;
                   class="flex items-center hover:text-primary font-medium"
                 >
                   {author.data.image && (
-                    <img
+                    <Image
                       src={`${import.meta.env.BASE_URL}/${author.data.image}`}
                       alt={author.data.title}
                       height={50}
