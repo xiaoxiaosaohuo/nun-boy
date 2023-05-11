@@ -1,7 +1,7 @@
 ---
 import Social from "@components/Social.astro";
 import { markdownify } from "@lib/utils/textConverter";
-import { Image } from "@astrojs/image/components";
+// import { Image } from "@astrojs/image/components";
 
 const { author } = Astro.props;
 const { title, image, social } = author.data;
@@ -14,7 +14,7 @@ const { Content } = await author.render();
       {
         image && (
           <div class="mb-8">
-            <Image
+            <img
               src={`${import.meta.env.BASE_URL}/${image}`}
               class="mx-auto rounded-lg"
               height={150}

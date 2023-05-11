@@ -1,5 +1,5 @@
 ---
-import { Image } from "@astrojs/image/components";
+// import { Image } from "@astrojs/image/components";
 import Base from "@layouts/Base.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
@@ -21,7 +21,7 @@ const { title, description, meta_title, image, what_i_do } = entry.data;
         <div class="sm:col-5 md:col-4">
           {image && (
             <div class="img-cover mb-8">
-              <Image
+              <img
                 src={`${import.meta.env.BASE_URL}/${image}`}
                 width={295}
                 height={395}

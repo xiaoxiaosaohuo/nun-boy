@@ -1,4 +1,4 @@
-import { Image } from "@astrojs/image/components";
+// import { Image } from "@astrojs/image/components";
 
 import config from "@config/config.json";
 import dateFormat from "@lib/utils/dateFormat";
@@ -96,7 +96,7 @@ export default function SearchBar({ searchList }: Props) {
           <div key={item.slug} className={"col-12 mb-8 sm:col-6"}>
             {item.data.image && (
               <a href={`${import.meta.env.BASE_URL}/${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
-                <Image
+                <img
                   className="group-hover:scale-[1.03] transition duration-300 w-full"
                   src={item.data.image}
                   alt={item.data.title}
