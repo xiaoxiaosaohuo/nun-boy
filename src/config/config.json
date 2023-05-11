@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Svien Blog",
+    "base_url": "https://xiaoxiaosaohuo.github.io",
+    "base_path": "/nun-boy",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Siven"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Siven",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Siven Blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023"
+  },
+
+  "contactinfo": {
+    "address": "Beijing",
+    "email": "jinxin479@gmail.com",
+    "phone": "(+86)15191517660"
+  }
+}
