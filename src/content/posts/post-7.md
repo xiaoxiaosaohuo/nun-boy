@@ -2,7 +2,7 @@
 title: 对成长的一点思考
 date: 2022-06-19T22:13:05.274Z
 description: "思考职业生涯的发展，前途，探索适合自己的下一个阶段的道路，这个过程就是成长"
-image: "/images/posts/05.jpg"
+image: "images/posts/05.jpg"
 categories: ["Work"]
 authors: ["siven"]
 tags: ["Work",]

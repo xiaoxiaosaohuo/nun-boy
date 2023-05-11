@@ -1,7 +1,7 @@
 ---
 title: "I’m Siven, A software engineer,a Full Stack developer "
 meta_title: "About"
-image: "/images/author.png"
+image: "images/author.png"
 draft: false
 
 what_i_do:

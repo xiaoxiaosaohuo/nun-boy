@@ -2,7 +2,7 @@
 title: Writing is a super skill
 date:  2022-08-07T22:13:05.274Z
 description: "What you should know when writing"
-image: "/images/posts/06.jpg"
+image: "images/posts/06.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

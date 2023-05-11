@@ -2,7 +2,7 @@
 title: 我的国人
 date: 2022-06-12T22:13:05.274Z
 description: "中国没有历史"
-image: "/images/posts/hiking.png"
+image: "images/posts/hiking.png"
 categories: ["Politics"]
 authors: ["siven"]
 tags: ["Politics",]

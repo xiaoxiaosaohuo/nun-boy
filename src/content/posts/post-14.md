@@ -2,7 +2,7 @@
 title: To be active in a conversation
 date: 2022-08-15T22:13:05.274Z
 description: ""
-image: "/images/posts/07.jpg"
+image: "images/posts/07.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

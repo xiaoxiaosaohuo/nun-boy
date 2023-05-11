@@ -2,7 +2,7 @@
 title: 30岁的梦想
 date: 2022-06-03T16:13:05.274Z
 description: "徒步，骑行，房车"
-image: "/images/posts/hiking.png"
+image: "images/posts/hiking.png"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

@@ -2,7 +2,7 @@
 title: 圣君贤相
 date: 2022-05-10T05:00:00Z
 description: "一个中国人的梦"
-image: "/images/posts/03.jpg"
+image: "images/posts/03.jpg"
 categories: ["politics"]
 authors: ["siven"]
 tags: ["politics",]

@@ -2,7 +2,7 @@
 title: 锻炼使我思维敏锐
 date: 2022-05-29T20:35:05.274Z
 description: "对类似猪瘟的疫情的小反思"
-image: "/images/posts/06.jpg"
+image: "images/posts/06.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

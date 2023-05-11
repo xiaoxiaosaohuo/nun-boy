@@ -2,7 +2,7 @@
 title: 开始学习日语
 date: 2022-07-13T22:13:05.274Z
 description: "语言学习的思考"
-image: "/images/posts/02.jpg"
+image: "images/posts/02.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

@@ -1,6 +1,6 @@
 ---
 title: siven
-image: /images/authors/siven.png
+image: images/authors/siven.png
 description: I’m Siven, A software engineer,a Full Stack developer
 social:
   linkedin: https://www.linkedin.com/in/xin-jin-12b681204/

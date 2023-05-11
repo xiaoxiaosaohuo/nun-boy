@@ -4,8 +4,8 @@
     "base_url": "https://xiaoxiaosaohuo.github.io",
     "base_path": "/nun-boy",
     "trailing_slash": false,
-    "favicon": "/nun-boy/images/favicon.png",
-    "logo": "/nun-boy/images/logo.png",
+    "favicon": "/images/favicon.png",
+    "logo": "",
     "logo_width": "200",
     "logo_height": "34",
     "logo_text": "Siven"

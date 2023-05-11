@@ -2,7 +2,7 @@
 title: 祝你好运 里奥·格兰德
 date: 2022-06-26T22:13:05.274Z
 description: "学会放下，才能得到想要的东西"
-image: "/images/posts/leo.png"
+image: "images/posts/leo.png"
 categories: ["Movie"]
 authors: ["siven"]
 tags: ["Movie",]

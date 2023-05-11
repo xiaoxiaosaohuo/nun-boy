@@ -2,7 +2,7 @@
 title: My English Journey
 date: 2022-07-23T22:13:05.274Z
 description: "This is  a new start point:writing blog in English"
-image: "/images/posts/05.jpg"
+image: "images/posts/05.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

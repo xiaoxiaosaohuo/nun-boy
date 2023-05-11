@@ -2,7 +2,7 @@
 title: 自我控制
 date: 2022-05-28T22:13:05.274Z
 description: "自我控制是一件耗费精力的事情"
-image: "/images/posts/04.jpg"
+image: "images/posts/04.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

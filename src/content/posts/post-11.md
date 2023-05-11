@@ -2,7 +2,7 @@
 title: 我的信息茧房
 date:  2022-07-17T22:13:05.274Z
 description: "对未知的担忧，多数处于无知"
-image: "/images/posts/03.jpg"
+image: "images/posts/03.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

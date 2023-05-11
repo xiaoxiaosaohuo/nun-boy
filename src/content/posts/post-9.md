@@ -2,7 +2,7 @@
 title: 上半年就这样结束了
 date: 2022-07-02T22:13:05.274Z
 description: "看到2022的时候，觉得自己还在2021，但是2021的事情已记不得了"
-image: "/images/posts/01.jpg"
+image: "images/posts/01.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]

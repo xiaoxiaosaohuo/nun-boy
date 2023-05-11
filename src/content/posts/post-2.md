@@ -2,7 +2,7 @@
 title: 跑步
 date: 2022-05-14T20:00:03.284Z
 description: "昆玉河的陪伴"
-image: "/images/posts/01.jpg"
+image: "images/posts/01.jpg"
 categories: ["Life"]
 authors: ["siven"]
 tags: ["Life",]
