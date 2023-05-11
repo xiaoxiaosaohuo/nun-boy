@@ -1,5 +1,4 @@
 ---
-import { Image } from "@astrojs/image/components";
 import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
@@ -37,7 +36,7 @@ const { title, description, authors, categories, image, date, tags } =
                     class="flex items-center hover:text-primary font-medium"
                   >
                     {author.data.image && (
-                      <Image
+                      <img
                         src={`${import.meta.env.BASE_URL}/${author.data.image}`}
                         alt={author.data.title}
                         height={50}
@@ -78,7 +77,7 @@ const { title, description, authors, categories, image, date, tags } =
 
       <div class="col-12 mt-8 mb-2">
         {image && (
-          <Image
+          <img
             src={`${import.meta.env.BASE_URL}/${image}`}
             height={500}
             width={1000}
