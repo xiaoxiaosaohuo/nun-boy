@@ -68,7 +68,7 @@ const { main }: { main: NavigationLink[] } = menu;
                 <ul class="nav-dropdown-list hidden group-hover:block md:invisible md:absolute md:block md:opacity-0 md:group-hover:visible md:group-hover:opacity-100">
                   {menu.children?.map((child) => (
                     <li class="nav-dropdown-item">
-                      <a href={child.url} class="nav-dropdown-link">
+                      <a href={`${import.meta.env.BASE_URL}${child.url}`} class="nav-dropdown-link">
                         {child.name}
                       </a>
                     </li>
@@ -77,7 +77,7 @@ const { main }: { main: NavigationLink[] } = menu;
               </li>
             ) : (
               <li class="nav-item">
-                <a href={menu.url} class="nav-link block">
+                <a href={`${import.meta.env.BASE_URL}${menu.url}`} class="nav-link block">
                   {menu.name}
                 </a>
               </li>
@@ -89,7 +89,7 @@ const { main }: { main: NavigationLink[] } = menu;
     <div class="order-1 ml-auto md:order-2 md:ml-0 flex">
       <a
         class="cursor-pointer p-2 mr-4 md:mr-0 text-xl text-dark hover:text-primary inline-block transition"
-        href="search"
+        href={`${import.meta.env.BASE_URL}/search`}
         title="seach"
         aria-label="seach"
       >
