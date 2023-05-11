@@ -35,7 +35,7 @@ jobs:
     - name: Build Astro
       run: npm run build --if-present
     - name: List files
-      run: cd dist & ls
+      run: cd dist && ls
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
