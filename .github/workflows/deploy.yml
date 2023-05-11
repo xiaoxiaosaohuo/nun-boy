@@ -34,6 +34,8 @@ jobs:
     # Not using npm? Change `npm run build` to `yarn build` or `pnpm run build`
     - name: Build Astro
       run: npm run build --if-present
+    - name: Copy Images
+      run: cp -R src/images dist/
     - name: List files
       run: cd dist && ls
 
