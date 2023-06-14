@@ -277,7 +277,7 @@ export default markdownToHtml
 
 then you'll get this beautiful highlight effect.
 
-![hiking1](/images/posts/js-code.png)
+![hiking1](/nun-boy/images/posts/js-code.png)
 
 
 #### Refrences
