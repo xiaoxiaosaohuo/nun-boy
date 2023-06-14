@@ -1,5 +1,5 @@
 ---
-title: Happiness is so easy
+title: How to highlight a code block
 date: 2023-06-14T22:13:05.274Z
 description: ""
 image: "images/posts/js-code.png"
@@ -236,8 +236,9 @@ code .hljs-diff-deletion {
   background: rgba(243, 139, 168, .15)
 }
 ```
-It looks good, but some work can not be highlight, do we have a better approach to fix this.
-##  rehype-pretty-code
+It looks good, but some word can not be highlight, do we have a better approach to fix this?.
+
+## rehype-pretty-code
 
 this is the perfect way to highlight code.
 
