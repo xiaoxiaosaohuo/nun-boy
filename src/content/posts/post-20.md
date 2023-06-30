@@ -1,7 +1,7 @@
 ---
 title: Thinking in English
 date: 2023-06-24T22:13:05.274Z
-description: ""
+description: "How to thinking in English"
 image: "images/posts/cat01.jpeg"
 categories: ["Learn"]
 authors: ["siven"]
