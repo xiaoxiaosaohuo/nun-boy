@@ -15,7 +15,8 @@ draft: false
 
 ```
 sudo chmod 400 keypair.pem (or keypair.cer)
-ssh -i flywings.pem ec2-user@54.90.137.126
+ssh -i flywings.pem ec2-user@34.330.285.114
+
 
 ```
 
