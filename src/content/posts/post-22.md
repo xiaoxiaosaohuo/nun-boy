@@ -1,5 +1,6 @@
 ---
-title: 如何部署Nextjs应用到EC2
+title: 如何部署 Next.js 应用到 EC2
+
 date: 2023-07-19T22:13:05.274Z
 description: ""
 image: "images/posts/aws.png"
